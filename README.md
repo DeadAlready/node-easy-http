@@ -25,6 +25,10 @@ The functions are also usable via the HTTP codes
 
 All status codes 300 and up will send a serialized HttpError object as the body of the response.
 
+All status codes are enumerable on the function.
+
+    console.log(require('easy-http').OK); //Prints 200
+
 ## HttpError
 
 The HttpError object is a custom error object that also holds the HTTP code.
