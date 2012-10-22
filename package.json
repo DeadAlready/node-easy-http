@@ -2,7 +2,7 @@
   "author": "Karl Düüna <karl.dyyna@gmail.com>",
   "name": "easy-http",
   "description": "Wrapper for creating convenience methods for HTTP codes",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "git@github.com:DeadAlready/node-easy-http"
